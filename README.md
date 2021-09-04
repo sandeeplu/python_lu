@@ -1,2 +1,2 @@
 # python_lu
-python repo
+python repo for my project
